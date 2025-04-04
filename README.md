@@ -9,8 +9,8 @@ This repository contains code for detecting **temporal tampering** (frame deleti
 - 1D-CNN binary classifier for tampering detection
 - Works on frame **deletion**, **insertion**, and **duplication** with minor dataset changes
 
-## Usage
+### 📦 Cite this work:
+If you use this code or dataset, please cite it as:
 
-### 1. Dataset Structure
-Organize your dataset as follows:
+Ali Shinwari. (2025). Video Tampering Detection using Frame Difference and 1D CNN. Zenodo. https://doi.org/10.5281/zenodo.15149252
 
